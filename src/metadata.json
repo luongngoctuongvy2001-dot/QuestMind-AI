@@ -1,0 +1,6 @@
+{
+  "name": "QuestMind",
+  "description": "Ứng dụng học tập thông minh sử dụng AI phân tích tài liệu và biến bài học thành phiêu lưu diệt quái, ghép tranh mở rương và thăng cấp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
